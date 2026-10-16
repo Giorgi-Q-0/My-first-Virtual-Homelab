@@ -9,7 +9,7 @@ Also the mouse had problem tracking my movement so i fixed it by changing 'Point
 
 
 This was really fun experience!
-it wasn't difficult at all, actually it was peace of cake!
+it wasn't difficult at all, actually it was piece of cake!
 
 my rating of Difficulty is 3.9/10.
 This was my first time working with VMs and also with Github.com
